@@ -1,16 +1,26 @@
 ## Hi there 👋
+# Joel C 📫 
+## Soy un Ingeniero Mecatrónico apasionado por la impreison 3D y la IA 🔭
 
-<!--
-**Jioel/Jioel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Descubri un gusto por la programación y ahora estoy en un bootcamp de **Fullstack JavaScript Developer** 🌱
 
-Here are some ideas to get you started:
+# Comandos Favoritos en Terminal 💻
+-----------
+#
+#
+|Comando |                 Descripcion           |
+| :---------------:|:-------------------------:  |
+| clear  |Limpia el terminal                     |
+| cd     |Cambio de directorio                   |
+| mkdir  |Creacion de subdirectorio o carpeta    |
+| ls     |Listado de elementos en el directorio  |
+| pwd    |Muestra el directorio de trabajo actual|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Comandos alias útiles 👽
+1. alias cl="clear"
+2. alias npmrd="npm run dev"
+
+
+
+
+** First README.md** ⚡
