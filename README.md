@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Joel C 📫 
-## Soy un Ingeniero Mecatrónico apasionado por la impreison 3D y la IA 🔭
+## Soy un Ingeniero Mecatrónico apasionado por la impresión 3D y la IA 🔭
 
 Descubri un gusto por la programación y ahora estoy en un bootcamp de **Fullstack JavaScript Developer** 🌱
 
