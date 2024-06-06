@@ -17,8 +17,10 @@ Descubri un gusto por la programación y ahora estoy en un bootcamp de **Fullsta
 | pwd    |Muestra el directorio de trabajo actual|
 
 # Comandos alias útiles 👽
-1. alias cl="clear"
-2. alias npmrd="npm run dev"
+``` bash 
+    alias cl="clear"
+    alias npmrd="npm run dev"
+```
 
 
 
